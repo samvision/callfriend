@@ -1,0 +1,31 @@
+{
+    "name": "webrtcvc",
+    "version": "0.0.1",
+    "description": "webrtc description",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/samvision/"
+    },
+    "keywords": [
+        "webrtc",
+        "videochat"
+    ],
+    "author": "samvision",
+    "license": "MIT",
+    "dependencies": {
+        "bufferutil": "^4.0.1",
+        "cors": "^2.8.1",
+        "ejs": "~3.1.2",
+        "express": "~4.17.1",
+        "minimist": ">=0.2.1",
+        "node-static": "~0.7.1",
+        "nodemon": "^2.0.4",
+        "socket.io": "~2.3.0",
+        "utf-8-validate": "^5.0.2",
+        "winston": "*"
+    }
+}
