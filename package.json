@@ -24,7 +24,7 @@
         "minimist": ">=0.2.1",
         "node-static": "~0.7.1",
         "nodemon": "^2.0.4",
-        "socket.io": "~2.3.0",
+        "socket.io": "~2.5.0",
         "utf-8-validate": "^5.0.2",
         "winston": "*"
     }
